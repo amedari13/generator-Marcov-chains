@@ -1,0 +1,24 @@
+Debug/
+.vs/
+
+# Compiled Object files
+.slo
+.obj
+
+# Precompiled Headers
+.gch
+.pch
+
+# Compiled Dynamic libraries
+.dll
+
+# Compiled Static libraries
+.lib
+
+# Executables
+.exe
+.out
+
+# Visual Studio
+.filters
+.user
